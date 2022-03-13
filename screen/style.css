@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+  .logo{
+    width: 70px;
+    min-height: 90px;
+    margin-left: 1400px;
+   
+  }
+  .logo{
+
+color: #3F71EA;
+float: left;margin-left: -2px;
+font-size: 28px;
+margin: 30px;
+  }
+#navbar{
+    
+    align-items: center;
+   
+    
+}
+#navbar ul{
+   
+    list-style: none;
+    display: flex;
+    background-color:#ffff;
+   padding: 12px;
+    height: 70px;
+   
+
+}
+#navbar ul li{
+    list-style: none;
+    padding: 3px 20px 20px;
+    float: right;
+
+}
+#navbar ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+ 
+   color:brown;
+
+  
+}
+#navbar ul li a:hover{
+  background-color:  #FAFAFA;
+  color: #000;
+ 
+  border-style:solid;
+  size: 15px;
+  border-radius: 25px;
+  margin-top: 5px;
+}
+.top-right{
+   margin-left:270px ;
+}
+body {
+    font-family: "Lato", sans-serif;
+    background: url(rt.jpg)no-repeat  center;
+    background-size: cover;
+   
+    position: relative;
+    
+    height: 800px;
+    
+  }
+ 
+.primary{
+    text-align: center;
+}
+.header{
+   
+    display: flex;
+    height: 80px;
+   /* margin: 10px; */
+   background-color:rgb(31, 31, 87);
+width: 100%;
+
+
+}
+.search-box
+{
+    margin-left: 380px;
+}
+
+#clr{
+    color: #fff;
+    font-size: 18px;
+    margin-left: -50px;
+     margin-top: -7px;
+     padding: 12px;
+     }
+     #clr:hover{
+      transition: all 0.1 ease;
+      cursor: pointer;
+      transform:  right scale(1.1);}
+
+
+      #hello{
+          color:yellow;
+          position: relative;
+         margin-right: 40px;
+        margin-top: 250px;
+        font-size:18px;}
+    
+        
+    #hello:hover{
+        transition: all 0.1 ease;
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+    
+    * {box-sizing: border-box;
+        
+        }
+body {font-family: Verdana, sans-serif;
+    
+    background-repeat: no-repeat center fixed;
+    background-size: cover;}
+
+img {background-size: cover;
+    
+    
+   
+   
+}
+
+
+
+ 
